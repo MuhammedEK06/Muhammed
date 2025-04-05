@@ -1,1 +1,1 @@
-# Muhammed
+print("Hello")
